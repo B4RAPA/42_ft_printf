@@ -55,7 +55,3 @@ Then link the compiled library when compiling your code.
 - Handling and parsing format strings
 - Custom implementation of formatted output
 - Robust error handling and debugging
-
----
-
-Let me know if you want to add more sections or further personalize the README!
